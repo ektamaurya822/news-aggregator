@@ -1,7 +1,7 @@
 # 📰 News Aggregator App
 
 A real-time News Aggregator built with Flask and News API that fetches the latest headlines based on user-selected categories like Technology, Business, Health, Sports, and more.
-
+✅ Live link working	[Test it now](https://news-aggregator-1-63ym.onrender.com)
 ---
 
 ## 📌 Features
