@@ -11,7 +11,7 @@ A real-time News Aggregator built with Flask and News API that fetches the lates
 - 💻 Built with Flask, HTML/CSS, Bootstrap
 - 🖥️ Responsive UI for all devices
 - 📦 Deployable on Render or PythonAnywhere
-
+LIVE VISIT- https://news-aggregator-1-63ym.onrender.com
 ---
 
 ## 🚀 Tech Stack
@@ -25,6 +25,7 @@ A real-time News Aggregator built with Flask and News API that fetches the lates
 ## 🔧 Installation & Run Locally
 
 ```bash
+
 git clone https://github.com/ektamaurya822/news-aggregator.git
 cd news-aggregator
 pip install -r requirements.txt
